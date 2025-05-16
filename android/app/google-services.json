@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079360119623",
+    "project_id": "jbank-36bae",
+    "storage_bucket": "jbank-36bae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079360119623:android:48fe977d60f2ed95152262",
+        "android_client_info": {
+          "package_name": "com.example.jbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM1J9W8JF-uggTYrcBwBB3nPthkPy1S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
